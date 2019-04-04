@@ -1,3 +1,6 @@
+<details>
+  <summary>Example POST</summary>
+
 ```
 [
   {
@@ -318,5 +321,6 @@
 ]
 
 ```
+</details>
 
 # test-actions
